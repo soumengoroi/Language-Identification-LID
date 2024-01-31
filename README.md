@@ -12,11 +12,11 @@ librosa==0.8.1
 SoundFile==0.10.3.post1 
 PyYAML==6.0
 
-Download the codebase and open up a terminal in the root directory. Make sure python 3.7 is installed in the current environment. Then execute
+Download the codebase and open up a terminal in the root directory. Make sure Python 3.7 is installed in the current environment. Then execute
 
 pip install -r requirements.txt
 
 # Dataset 
-Download dataset from link below.
+Download the dataset from the link below.
 "https://huggingface.co/datasets/common_language/resolve/main/data/CommonLanguage.zip"
-save at dataset folder.
+Unzip and save it at the dataset folder.
